@@ -13,3 +13,8 @@ Raw framingham.csv dataset is downloaded from Kaggle. The dataset is cleaned, th
 The dataset can be downloaded from: https://www.kaggle.com/oddrationale/mnist-in-csv for EDA. 
 The dataset used for creating the models are downloaded through torchvision.datasets and keras.datasets in the ipynb attached
 (See the downloads from: tf.keras.datasets.mnist and torchvision.datasets.MNIST)
+
+
+#### 4- Breast Cancer dataset is analyzed with Pandas, Seaborn, and Matplot Libraries. Decision Tree & XGBoost models are trained to make a prediction with 95% and 97% accuracy respectively.
+The dataset can be obtained at: http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
+Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. Data has information about 569 patients. There are 32 attributes.
