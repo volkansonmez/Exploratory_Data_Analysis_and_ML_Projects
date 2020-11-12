@@ -20,6 +20,14 @@ The dataset can be obtained at: http://archive.ics.uci.edu/ml/datasets/breast+ca
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. Data has information about 569 patients. There are 32 attributes.
 
 
-#### 4- Ambient Temperature dataset (in ANOMALY DETECTION FOLDER) is analyzed with Pandas, Seaborn, and Matplot Libraries. Kmeans++ is used to cluster the data and basic adtk tool is used to see the anomalities.
+#### 4- Ambient Temperature dataset (in Anomaly Detection Dataset Folder) is analyzed with Pandas, Seaborn, and Matplot Libraries. Kmeans++ is used to cluster the data and basic adtk tool is used to see the anomalities.
 The dataset can be obtained at: https://www.kaggle.com/boltzmannbrain/nab
 This is a timeseries dataset showing hourly temperature values for one year
+
+#### 5- Yahoo APPL Stock dataset (Time Series AAPL Dataset Folder) is analyzed with Pandas, Seaborn, and Matplot Libraries. FBProphet, ARIMA, and LSTM models (with Keras TF) are used to make predictions.
+The dataset can be obtained at: https://finance.yahoo.com/chart/AAPL/
+This is a timeseries dataset showing daily stock value changes of APPLE. 
+
+
+
+
