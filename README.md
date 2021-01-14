@@ -24,10 +24,15 @@ Features are computed from a digitized image of a fine needle aspirate (FNA) of 
 The dataset can be obtained at: https://www.kaggle.com/boltzmannbrain/nab
 This is a timeseries dataset showing hourly temperature values for one year
 
+
 #### 6- Yahoo APPL Stock dataset (Time Series Stock Dataset Folder) is analyzed with Pandas, Seaborn, and Matplot Libraries. FBProphet, ARIMA, and LSTM models (with Keras TF) are used to make predictions.
 The dataset can be obtained at: https://finance.yahoo.com/chart/AAPL/
 This is a timeseries dataset showing daily stock value changes of APPLE. 
 
+
+#### 7- Audio Dataset: Several laughters in .wav format analyzed with Librosa and Matplotlib Libraries. Convolutional NN are used to make predictions.
+The dataset can be found in the 'laugh' and 'laugh_test' folders.
+There are 22 laughter files in total. Some sound sincere and some sound fake. The gray scale mel spectogram images of the laughter audio files are trained and tested. 
 
 
 
