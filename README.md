@@ -35,4 +35,12 @@ The dataset can be found in the 'laugh' and 'laugh_test' folders.
 There are 22 laughter files in total. Some sound sincere and some sound fake. The gray scale mel spectogram images of the laughter audio files are trained and tested. 
 
 
+#### 8- Self-supervised learning with a truck parking its trailer backwards, creating its own training data with emulator and doing the steering with controller
+A truck is created in a frame of 400x300 area for about 100,000 scenerios (at different coordinates) and a random steering angle (wheel input) is added and output is observed. When truck learns how to step backwards from any steering angle (wheel input), a controller is added to the system which is actually a smart steering wheel to take the truck back to the origin. This system is only trained on a CPU for about 1 epoch and it needs improvements, some corrections, and way more training. This notebook is the enhanced version of the copy given at NYU Deep Learning Class. The trained weights of the system are already presented in the folder (ready to upload) so that students do not need to train them from scratch if they do not need to. 
+
+
+
+
+
+
 
