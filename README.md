@@ -39,7 +39,7 @@ There are 22 laughter files in total. Some sound sincere and some sound fake. Th
 A truck is created in a frame of 400x300 area for about 100,000 scenerios (at different coordinates) and a random steering angle (wheel input) is added and output is observed. When truck learns how to step backwards from any steering angle (wheel input), a controller is added to the system which is actually a smart steering wheel to take the truck back to the origin. This system is only trained on a CPU for about 1 epoch and it needs improvements, some corrections, and way more training. This notebook is the enhanced version of the copy given at NYU Deep Learning Class. The trained weights of the system are already presented in the folder (ready to upload) so that students do not need to train them from scratch if they do not need to. 
 
 
-#### 7- Transformer Encoder: Sentiment Analysis made on the torch.datasets.IMDB dataset.
+#### 9- Transformer Encoder: Sentiment Analysis made on the torch.datasets.IMDB dataset.
 Torch.datasets has IMDB dataset that is made of 25000 comments made on several movies. Some positive and some negative comments. A simple Transformer Encoder is coded from scratch with PyTorch and then it is used to do sentiment analysis on these comments. 
 
 
