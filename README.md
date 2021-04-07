@@ -40,7 +40,7 @@ A truck is created in a frame of 400x300 area for about 100,000 scenerios (at di
 
 
 #### 9- Transformer Encoder: Sentiment Analysis made on the torch.datasets.IMDB dataset.
-Torch.datasets has IMDB dataset that is made of 25000 comments made on several movies. Some positive and some negative comments. A simple Transformer Encoder is coded from scratch with PyTorch and then it is used to do sentiment analysis on these comments. 
+TORCHTEXT.DATASETS.IMDB dataset is made of 25000 comments on several movies. A simple Transformer Encoder is coded from scratch with PyTorch and then used for performing a sentiment analysis on these comments. The encoder model is trying to detect whether these comments are positive or negative. 
 
 
 
