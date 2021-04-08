@@ -44,7 +44,8 @@ TORCHTEXT.DATASETS.IMDB dataset is made of 25000 comments on several movies. A s
 
 
 #### 10- Variational Auto Encoder with Yale Face Dataset
-Created a Variational Auto Encoder (VAE) and fed the Yale Face Database to the model to extract the average facial features of the dataset. This dataset can be found here: https://www.kaggle.com/kerneler/starter-yale-face-database-c5f3978b-5 
+Created a Variational Auto Encoder (VAE) and fed the Yale Face Database to the model to extract the average facial features of the dataset. This dataset can be found here: https://www.kaggle.com/kerneler/starter-yale-face-database-c5f3978b-5
+Note: Since the trained model parameters are about 3.2 GB, it is not available here. Download the dataset from the link above to your working folder and then UNMARK all the cells in the notebook and run it to train your model. If you use a simple CPU, it might take up to 12 hours. It is recommended to use a GPU. 
 
 
 
