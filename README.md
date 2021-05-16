@@ -1,4 +1,4 @@
-## Explatory_Data_Analysis_and_ML_Projects
+## Exploratory_Data_Analysis_and_ML_Projects
 
 
 #### 1- Kaggle movie dataset is analyzed with Pandas and Matplot Libraries.
