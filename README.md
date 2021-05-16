@@ -48,6 +48,9 @@ Created a Variational Auto Encoder (VAE) and fed the Yale Face Database to the m
 Note: Since the trained model parameters are about 3.2 GB, it is not available here. Download the dataset from the link above to your working folder and then UNMARK all the cells in the notebook and run it to train your model. If you use a simple CPU, it might take up to 12 hours. It is recommended to use a GPU. 
 
 
+#### 11- DGL Library Simplified with Examples
+Deep Graph Library is a great tool to do node classification, edge classification, and graph classification. It has its own tutorial datasets. This notebook has detailed analysis of CoraDataSet and MiniGCDatasets with dgl.nn module. https://www.dgl.ai/  
+
 
 
 
