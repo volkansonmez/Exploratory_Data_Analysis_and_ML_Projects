@@ -30,25 +30,25 @@ The dataset can be obtained at: https://finance.yahoo.com/chart/AAPL/
 This is a timeseries dataset showing daily stock value changes of APPLE. 
 
 
-#### 7- Audio Dataset: Several laughters in .wav format analyzed with Librosa and Matplotlib Libraries. Convolutional NN are used to make predictions.
+#### 7- Audio Dataset: Several laughters in .wav format are analyzed with Librosa and Matplotlib Libraries. Convolutional NN are used to make predictions.
 The dataset can be found in the 'laugh' and 'laugh_test' folders.
 There are 22 laughter files in total. Some sound sincere and some sound fake. The gray scale mel spectogram images of the laughter audio files are trained and tested. 
 
 
-#### 8- Self-supervised learning with a truck parking its trailer backwards, creating its own training data with emulator and doing the steering with controller
+#### 8- Self-Supervised Learning: A truck is learning how to park backwards, creating its own training data with emulator and doing its steering with controller.
 A truck is created in a frame of 400x300 area for about 100,000 scenerios (at different coordinates) and a random steering angle (wheel input) is added and output is observed. When truck learns how to step backwards from any steering angle (wheel input), a controller is added to the system which is actually a smart steering wheel to take the truck back to the origin. This system is only trained on a CPU for about 1 epoch and it needs improvements, some corrections, and way more training. This notebook is the enhanced version of the copy given at NYU Deep Learning Class. The trained weights of the system are already presented in the folder (ready to upload) so that students do not need to train them from scratch if they do not need to. 
 
 
-#### 9- Transformer Encoder: Sentiment Analysis made on the torch.datasets.IMDB dataset.
+#### 9- Transformer Encoder: Sentiment Analysis is made on the torch.datasets.IMDB dataset.
 TORCHTEXT.DATASETS.IMDB dataset is made of 25000 comments on several movies. A simple Transformer Encoder is coded from scratch with PyTorch and then used for performing a sentiment analysis on these comments. The encoder model is trying to detect whether these comments are positive or negative. 
 
 
-#### 10- Variational Auto Encoder with Yale Face Dataset
+#### 10- Variational Auto Encoder is applied on the Yale Face Dataset.
 Created a Variational Auto Encoder (VAE) and fed the Yale Face Database to the model to extract the average facial features of the dataset. This dataset can be found here: https://www.kaggle.com/kerneler/starter-yale-face-database-c5f3978b-5
 Note: Since the trained model parameters are about 3.2 GB, it is not available here. Download the dataset from the link above to your working folder and then UNMARK all the cells in the notebook and run it to train your model. If you use a simple CPU, it might take up to 12 hours. It is recommended to use a GPU. 
 
 
-#### 11- Deep Graph Library (DGL) Simplified with Examples
+#### 11- Deep Graph Library (DGL) is simplified with examples.
 Deep Graph Library is a great tool to do node classification, edge classification, and graph classification. It has its own tutorial datasets. This notebook has detailed analysis of CoraDataSet and MiniGCDatasets with dgl.nn module. https://www.dgl.ai/  
 
 
