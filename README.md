@@ -4,7 +4,7 @@
 
 
 
-# Volkan Sonmez's data analysis and machine learning projects
+# Volkan Sonmez's Machine Learning Projects
 
 © 2021 - current, Volkan Sonmez, Pythonicfool.com
 
