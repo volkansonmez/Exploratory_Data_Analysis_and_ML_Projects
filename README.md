@@ -1,10 +1,6 @@
-
-# [![waylon walker header](https://avatars.githubusercontent.com/u/30424551?v=4)](https://github.com/volkansonmez)
-
 <p>
   <a href="https://avatars.githubusercontent.com/u/30424551?v=4"><img width="150" align='right' src="https://avatars.githubusercontent.com/u/30424551?v=4"></a>
 </p>
-
 
 
 
@@ -37,7 +33,6 @@ Under the following terms:
 
 * You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
 * No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-
 
 
 
