@@ -10,7 +10,7 @@
 
 This is a repository of teaching materials, code, and data for my data analysis and machine learning projects.
 
-Each repository will (usually) correspond to one of the posts on my [web site](http://www.pythonicfool.com/).
+Each repository will (usually) correspond to one of the posts on my [website](http://www.pythonicfool.com/).
 
 Be sure to check the documentation (usually in IPython Notebook format) in the directory you're interested in for the notes on the analysis, data usage terms, etc.
 
