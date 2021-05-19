@@ -6,7 +6,7 @@
 
 # Volkan Sonmez's Machine Learning Projects
 
-© 2021 - current, Volkan Sonmez, www.pythonicfool.com
+© 2018 - current, Volkan Sonmez, www.pythonicfool.com
 
 This is a repository of teaching materials, code, and data for my data analysis and machine learning projects.
 
