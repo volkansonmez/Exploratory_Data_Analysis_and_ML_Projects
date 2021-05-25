@@ -82,7 +82,7 @@ A truck is created in a frame of 400x300 area for about 100,000 scenerios (at di
 TORCHTEXT.DATASETS.IMDB dataset is made of 25000 comments on several movies. A simple Transformer Encoder is coded from scratch with PyTorch and then used for performing a sentiment analysis on these comments. The encoder model is trying to detect whether these comments are positive or negative. 
 
 
-#### 10- Variational Auto Encoder is applied on the Yale Face Dataset.
+#### 10- Variational Auto Encoder is trained on the Yale Face Dataset.
 Created a Variational Auto Encoder (VAE) and fed the Yale Face Database to the model to extract the average facial features of the dataset. This dataset can be found here: https://www.kaggle.com/kerneler/starter-yale-face-database-c5f3978b-5
 Note: Since the trained model parameters are about 3.2 GB, it is not available here. Download the dataset from the link above to your working folder and then UNMARK all the cells in the notebook and run it to train your model. If you use a simple CPU, it might take up to 12 hours. It is recommended to use a GPU. 
 
