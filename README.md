@@ -61,29 +61,24 @@ The dataset can be downloaded from: https://www.kaggle.com/oddrationale/mnist-in
 
 -------------------------------------------------------------------------------------
 
-#### 7- [Kaggle Movie Dataset - EDA](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Movies%20Dataset)
-Movie Dataset is analyzed with Pandas and Matplot Libraries.
-
--------------------------------------------------------------------------------------
-
-#### 8- [Time Series Stock Dataset - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Time%20Series%20Stock%20Data)
+#### 7- [Time Series Stock Dataset - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Time%20Series%20Stock%20Data)
 Stock prices is analyzed with Pandas, Seaborn, and Matplot Libraries. FBProphet, ARIMA, and LSTM models (with Keras TF) are used to make predictions.
 The dataset can be obtained at: https://finance.yahoo.com/chart/AAPL/
 
 -------------------------------------------------------------------------------------
 
-#### 9- [Transformer - ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Transformer) 
+#### 8- [Transformer - ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Transformer) 
 A Transformer Encoder is coded from scratch with PyTorch and then trained for performing a sentiment analysis on the torch.datasets.IMDB dataset.
 
 -------------------------------------------------------------------------------------
 
-#### 10- [Truck Backer Upper - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Truck%20Backer%20Upper%20SSL)
+#### 9- [Truck Backer Upper - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Truck%20Backer%20Upper%20SSL)
 A truck is learning how to park backwards, creating its own training data with emulator and doing its steering with controller.
 This notebook is the enhanced version of the copy at the NYU 2020 Deep Learning Class. 
 
 -------------------------------------------------------------------------------------
 
-#### 11- [VAE with Yale Database - ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/VAE%20with%20Yale%20Database)
+#### 10- [VAE with Yale Database - ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/VAE%20with%20Yale%20Database)
 Variational Auto Encoder (VAE) is created and trained it with the Yale Face Database to extract the average facial features of the dataset. This dataset can be found here: https://www.kaggle.com/kerneler/starter-yale-face-database-c5f3978b-5
 
 
