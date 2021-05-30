@@ -44,43 +44,43 @@ Under the following terms:
 Raw tmdb_5000_movies.csv dataset is cleaned, organized, and nested json files are flattened with Pandas. The tables are created with matplotlib.pyplot. There are clean instructions to follow each step for the beginners. Last update: June 15, 2020
 
 
-#### 2- [Framingham Dataset EDA & ML] (https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Framingham%20Dataset)
+#### 2- [Framingham Dataset EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Framingham%20Dataset)
 Raw framingham.csv dataset is downloaded from Kaggle. The dataset is cleaned, the feature scoring analysis and pruning is done. 3 different ML algorithms are applied for logistic regression analysis. There are clean instructions to follow each step for the beginners. Last update: September 24, 2020
 
 
-#### 3- [MNIST Dataset EDA & ML] (https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/MNIST%20Dataset)
+#### 3- [MNIST Dataset EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/MNIST%20Dataset)
 The dataset can be downloaded from: https://www.kaggle.com/oddrationale/mnist-in-csv for EDA. 
 The dataset used for creating the models are downloaded through torchvision.datasets and keras.datasets in the ipynb attached
 (See the downloads from: tf.keras.datasets.mnist and torchvision.datasets.MNIST)
 
 
-#### 4- [Breast Cancer Dataset EDA & ML] (https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Breast%20Cancer%20Dataset)
+#### 4- [Breast Cancer Dataset EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Breast%20Cancer%20Dataset)
 The dataset can be obtained at: http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. Data has information about 569 patients. There are 32 attributes.
 
 
-#### 5- [Anomaly Detection EDA & ML] (https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Anomaly%20Detection%20Dataset)
+#### 5- [Anomaly Detection EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Anomaly%20Detection%20Dataset)
 Temperature changes in a dataset is analyzed with Pandas, Seaborn, and Matplot Libraries. Kmeans++ is used to cluster the data and basic adtk tool is used to see the anomalities. The dataset can be obtained at: https://www.kaggle.com/boltzmannbrain/nab
 This is a timeseries dataset showing hourly temperature values for one year
 
 
-#### 6- [Time Series Stock Dataset EDA & ML] (https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Time%20Series%20Stock%20Data)
+#### 6- [Time Series Stock Dataset EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Time%20Series%20Stock%20Data)
 Stock prices of AAPL and TSLA are analyzed with Pandas, Seaborn, and Matplot Libraries. FBProphet, ARIMA, and LSTM models are trained to make predictions.
 The dataset can be obtained at: https://finance.yahoo.com/chart/AAPL/
 This is a timeseries dataset showing daily stock price changes. 
 
 
-#### 7- [Audio Dataset EDA & ML] (https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Audio%20Dataset)
+#### 7- [Audio Dataset EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Audio%20Dataset)
 Several laughters in .wav format are analyzed with Librosa and Matplotlib Libraries. Convolutional NN are used to make predictions.
 The dataset can be found in the 'laugh' and 'laugh_test' folders. There are 22 laughter files in total. Some sound sincere and some sound fake. The gray scale mel spectogram images of the laughter audio files are trained and tested. 
 
 
-#### 8- [Truck Backer Upper ML] (https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Truck%20Backer%20Upper%20SSL)
+#### 8- [Truck Backer Upper ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Truck%20Backer%20Upper%20SSL)
 A truck is learning how to park backwards, creating its own training data with emulator and doing its steering with controller. (Self-Supervised Learning)
 A truck is created in a frame of 400x300 area for about 100,000 scenerios (at different coordinates) and a random steering angle (wheel input) is added and output is observed. When truck learns how to step backwards from any steering angle (wheel input), a controller is added to the system which is actually a smart steering wheel to take the truck back to the origin. This system is only trained on a CPU for about 1 epoch and it needs improvements, some corrections, and way more training. This notebook is the enhanced version of the copy given at NYU Deep Learning Class. The trained weights of the system are already presented in the folder (ready to upload) so that students do not need to train them from scratch if they do not need to. 
 
 
-#### 9- [Transformer Encoder ML] (https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Transformer)
+#### 9- [Transformer Encoder ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Transformer)
 Sentiment Analysis is made on the torch.datasets.IMDB dataset.
 TORCHTEXT.DATASETS.IMDB dataset is made of 25000 comments on several movies. A simple Transformer Encoder is coded from scratch with PyTorch and then used for performing a sentiment analysis on these comments. The encoder model is trying to detect whether these comments are positive or negative. 
 
@@ -90,7 +90,7 @@ Created a Variational Auto Encoder (VAE) and fed the Yale Face Database to the m
 Note: Since the trained model parameters are about 3.2 GB, it is not available here. Download the dataset from the link above to your working folder and then UNMARK all the cells in the notebook and run it to train your model. If you use a simple CPU, it might take up to 12 hours. It is recommended to use a GPU. 
 
 
-#### 11- [Deep Graph Library (DGL) ML] (https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/DGL%20Library%20Explained)
+#### 11- [Deep Graph Library (DGL) ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/DGL%20Library%20Explained)
 Deep Graph Library is a great tool to do node classification, edge classification, and graph classification. It has its own tutorial datasets. This notebook has detailed analysis of CoraDataSet and MiniGCDatasets with dgl.nn module. https://www.dgl.ai/  
 
 
