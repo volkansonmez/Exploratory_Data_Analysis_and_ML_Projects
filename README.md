@@ -25,7 +25,7 @@ Under the following terms:
 
 
 
-## List of Exploratory Data Analysis and Machine Learning Projects in this depository:
+## List of Exploratory Data Analysis and Machine Learning Projects:
 
 
 #### 1- [Anomaly Detection - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Anomaly%20Detection%20Dataset)
