@@ -58,7 +58,7 @@ The dataset can be downloaded from: https://www.kaggle.com/oddrationale/mnist-in
 The dataset can be obtained at: http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 
 
-#### 5- [Anomaly Detection - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Audio%20Dataset)
+#### 5- [Anomaly Detection - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Anomaly%20Detection%20Dataset)
 Temperature anomaly is analyzed with Pandas, Seaborn, and Matplot Libraries. Kmeans++ is used to cluster the data and basic adtk tool is used to see the anomalities. The dataset can be obtained at: https://www.kaggle.com/boltzmannbrain/nab
 This is a timeseries dataset showing hourly temperature values for one year
 
