@@ -31,7 +31,7 @@ Movie Dataset is analyzed with Pandas and Matplot Libraries.
 
 
 #### 2- [Framingham Dataset - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Framingham%20Dataset) 
-Framingham Dataset is analyzed with Pandas, Seaborn, and Matplot Libraries. KNN, Logistic Regression Classifier, and a One Layer Neural Network are applied to the dataset. Raw framingham.csv dataset is downloaded from Kaggle. 3 different ML algorithms are applied for logistic regression analysis. T
+Framingham Dataset is analyzed with Pandas, Seaborn, and Matplot Libraries. KNN, Logistic Regression Classifier, and a One Layer Neural Network are applied to the dataset. Raw framingham.csv dataset is downloaded from Kaggle. 
 
 
 #### 3- [MNIST Dataset - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/MNIST%20Dataset)
@@ -40,25 +40,21 @@ The dataset can be downloaded from: https://www.kaggle.com/oddrationale/mnist-in
 
 
 #### 4- [Breast Cancer Dataset - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Breast%20Cancer%20Dataset)
- is analyzed with Pandas, Seaborn, and Matplot Libraries. Decision Tree & XGBoost models are trained to make a prediction with 95% and 97% accuracy respectively.
-The dataset can be obtained at: http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
+Breast Cancer Dataset is analyzed with Pandas, Seaborn, and Matplot Libraries. Decision Tree & XGBoost models are trained to make a prediction with 95% and 97% accuracy respectively. The dataset can be obtained at: http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 
 
 #### 5- [Anomaly Detection - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Anomaly%20Detection%20Dataset)
-Temperature anomaly is analyzed with Pandas, Seaborn, and Matplot Libraries. Kmeans++ is used to cluster the data and basic adtk tool is used to see the anomalities. The dataset can be obtained at: https://www.kaggle.com/boltzmannbrain/nab
-This is a timeseries dataset showing hourly temperature values for one year
+This is a timeseries dataset showing hourly temperature values for one year. Kmeans++ is written from scracth for clustering the data and ADTK is used for anomaly detection. The dataset can be obtained at: https://www.kaggle.com/boltzmannbrain/nab 
 
 
 #### 6- [Time Series Stock Dataset - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Time%20Series%20Stock%20Data)
-is analyzed with Pandas, Seaborn, and Matplot Libraries. FBProphet, ARIMA, and LSTM models (with Keras TF) are used to make predictions.
+Stock prices is analyzed with Pandas, Seaborn, and Matplot Libraries. FBProphet, ARIMA, and LSTM models (with Keras TF) are used to make predictions.
 The dataset can be obtained at: https://finance.yahoo.com/chart/AAPL/
-This is a timeseries dataset showing daily stock value changes of APPLE. 
 
 
 #### 7- [Audio Dataset - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Audio%20Dataset)
 Several laughters in .wav format are analyzed with Librosa and Matplotlib Libraries. Convolutional NN are used to make predictions.
-The dataset can be found in the 'laugh' and 'laugh_test' folders.
-There are 22 laughter files in total. Some sound sincere and some sound fake. The gray scale mel spectogram images of the laughter audio files are trained and tested. 
+The dataset can be found in the 'laugh' and 'laugh_test' folders. There are 22 laughter files in total. Some sound sincere and some sound fake. The gray scale mel spectogram images of the laughter audio files are trained and tested. 
 
 
 #### 8- [Truck Backer Upper - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Truck%20Backer%20Upper%20SSL)
@@ -71,7 +67,7 @@ A Transformer Encoder is coded from scratch with PyTorch and then trained for pe
 
 
 #### 10- [VAE with Yale Database - ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/VAE%20with%20Yale%20Database)
-Created a Variational Auto Encoder (VAE) and trained it with the Yale Face Database to the model to extract the average facial features of the dataset. This dataset can be found here: https://www.kaggle.com/kerneler/starter-yale-face-database-c5f3978b-5
+Variational Auto Encoder (VAE) is created and trained it with the Yale Face Database to extract the average facial features of the dataset. This dataset can be found here: https://www.kaggle.com/kerneler/starter-yale-face-database-c5f3978b-5
 
 
 #### 11- [Deep Graph Library (DGL) - ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/DGL%20Library%20Explained)
