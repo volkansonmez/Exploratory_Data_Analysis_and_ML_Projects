@@ -81,8 +81,11 @@ This notebook is the enhanced version of the copy at the NYU 2020 Deep Learning 
 #### 10- [VAE with Yale Database - ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/VAE%20with%20Yale%20Database)
 Variational Auto Encoder (VAE) is created and trained it with the Yale Face Database to extract the average facial features of the dataset. This dataset can be found here: https://www.kaggle.com/kerneler/starter-yale-face-database-c5f3978b-5
 
+-------------------------------------------------------------------------------------
 
-
+#### 11- [Bitcoin Price Analysis and Prediction - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/blob/master/Bitcoin%20Price%20Analysis%20and%20Prediction/Bitcoin_Price_Prediction_with_ARIMA_and_LSTM.ipynb)
+Bitcoin price is analyzed with Pandas and Matplot Libraries. ARIMA (statistical) and LSTM (machine learning) models are used to make predictions.
+The dataset can be obtained with yfinance module.
 
 
 
