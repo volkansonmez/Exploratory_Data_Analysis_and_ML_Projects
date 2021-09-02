@@ -74,7 +74,7 @@ A Transformer Encoder is coded from scratch with PyTorch and then trained for pe
 
 #### 9- [Truck Backer Upper - EDA & ML](https://github.com/volkansonmez/Exploratory_Data_Analysis_and_ML_Projects/tree/master/Truck%20Backer%20Upper%20SSL)
 A truck is learning how to park backwards, creating its own training data with emulator and doing its steering with controller.
-This notebook is the enhanced version of the copy at the NYU 2020 Deep Learning Class. 
+This notebook is the enhanced version of the copy at the NYU 2020 Deep Learning Class. The trained weights are stored in the emulator.txt and controller.txt files. 
 
 -------------------------------------------------------------------------------------
 
